@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eecheighu.fuzhongkuo.cn/sitemap.xml
